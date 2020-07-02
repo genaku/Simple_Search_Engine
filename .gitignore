@@ -1,0 +1,30 @@
+# Project exclude paths
+/.gradle/
+/Problems/A simple calculator/out/
+/Problems/A simple calculator/out/production/classes/
+/Problems/Beyond the word/out/
+/Problems/Beyond the word/out/production/classes/
+/Problems/Direction/out/
+/Problems/Direction/out/production/classes/
+/Problems/Find the first occurrence of the word  the/out/
+/Problems/Find the first occurrence of the word  the/out/production/classes/
+/Problems/First digit/out/
+/Problems/First digit/out/production/classes/
+/Problems/Generating passwords/out/
+/Problems/Generating passwords/out/production/classes/
+/Problems/Lucky number/out/
+/Problems/Lucky number/out/production/classes/
+/Problems/Squares of natural numbers/out/
+/Problems/Squares of natural numbers/out/production/classes/
+/Problems/The largest element/out/
+/Problems/The largest element/out/production/classes/
+/Problems/The number of digits/out/
+/Problems/The number of digits/out/production/classes/
+/Problems/The sum of elements/out/
+/Problems/The sum of elements/out/production/classes/
+/Problems/Unique characters/out/
+/Problems/Unique characters/out/production/classes/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/out/
+/Simple Search Engine/task/out/production/classes/
+/Simple Search Engine/task/out/test/classes/
